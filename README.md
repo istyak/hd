@@ -5,7 +5,10 @@ Here is the research paper link:( https://drive.google.com/drive/u/0/folders/1UC
 Here is the google from link: (https://docs.google.com/forms/d/19pj7Fx0cIzd_WSBaEsS9tto2_TTBTU-nR748b5LOFnY/edit)
 
 
-Can see the Analysis from here( https://nbviewer.jupyter.org/github/istyak/hd/blob/master/The%202.ipynb )
+Can see the Analysis from here( https://nbviewer.jupyter.org/github/istyak/hd/blob/master/The%202.0.ipynb )
+                              
+                              
+                              
 
    B7:(https://nbviewer.jupyter.org/github/Byte7/Heart-Disease-Analysis-and-Prediction/blob/master/Heart_Disease_Analysis_Complete.ipynb)
 
