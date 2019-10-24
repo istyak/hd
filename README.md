@@ -6,7 +6,7 @@ Here is the google from link: (https://docs.google.com/forms/d/19pj7Fx0cIzd_WSBa
 
 
 Can see the Analysis from here with 150 data( https://nbviewer.jupyter.org/github/istyak/hd/blob/master/The%202.0.ipynb )
-                            with 50 data ( https://nbviewer.jupyter.org/github/istyak/hd/blob/master/The%202.ipynb )
+                            with 50 data ( https://nbviewer.jupyter.org/github/istyak/hd/blob/master/The%203.0.ipynb )
                               
                               
                               
